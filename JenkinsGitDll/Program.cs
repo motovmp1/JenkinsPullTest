@@ -10,7 +10,7 @@ namespace JenkinsGitDll
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("Hello");
-                Thread.Sleep(400);
+                Thread.Sleep(2500);
                 Thread.Sleep(100);
 
             }
