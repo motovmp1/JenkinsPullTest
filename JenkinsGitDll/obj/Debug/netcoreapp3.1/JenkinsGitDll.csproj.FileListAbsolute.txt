@@ -1,0 +1,13 @@
+D:\SourceCsharpcourse\SourceDecember2020\source\repos\JenkinsExamplesCourse2021\JenkinsExamples2021\JenkinsGitDll\bin\Debug\netcoreapp3.1\JenkinsGitDll.exe
+D:\SourceCsharpcourse\SourceDecember2020\source\repos\JenkinsExamplesCourse2021\JenkinsExamples2021\JenkinsGitDll\bin\Debug\netcoreapp3.1\JenkinsGitDll.deps.json
+D:\SourceCsharpcourse\SourceDecember2020\source\repos\JenkinsExamplesCourse2021\JenkinsExamples2021\JenkinsGitDll\bin\Debug\netcoreapp3.1\JenkinsGitDll.runtimeconfig.json
+D:\SourceCsharpcourse\SourceDecember2020\source\repos\JenkinsExamplesCourse2021\JenkinsExamples2021\JenkinsGitDll\bin\Debug\netcoreapp3.1\JenkinsGitDll.runtimeconfig.dev.json
+D:\SourceCsharpcourse\SourceDecember2020\source\repos\JenkinsExamplesCourse2021\JenkinsExamples2021\JenkinsGitDll\bin\Debug\netcoreapp3.1\JenkinsGitDll.dll
+D:\SourceCsharpcourse\SourceDecember2020\source\repos\JenkinsExamplesCourse2021\JenkinsExamples2021\JenkinsGitDll\bin\Debug\netcoreapp3.1\JenkinsGitDll.pdb
+D:\SourceCsharpcourse\SourceDecember2020\source\repos\JenkinsExamplesCourse2021\JenkinsExamples2021\JenkinsGitDll\obj\Debug\netcoreapp3.1\JenkinsGitDll.csprojAssemblyReference.cache
+D:\SourceCsharpcourse\SourceDecember2020\source\repos\JenkinsExamplesCourse2021\JenkinsExamples2021\JenkinsGitDll\obj\Debug\netcoreapp3.1\JenkinsGitDll.AssemblyInfoInputs.cache
+D:\SourceCsharpcourse\SourceDecember2020\source\repos\JenkinsExamplesCourse2021\JenkinsExamples2021\JenkinsGitDll\obj\Debug\netcoreapp3.1\JenkinsGitDll.AssemblyInfo.cs
+D:\SourceCsharpcourse\SourceDecember2020\source\repos\JenkinsExamplesCourse2021\JenkinsExamples2021\JenkinsGitDll\obj\Debug\netcoreapp3.1\JenkinsGitDll.csproj.CoreCompileInputs.cache
+D:\SourceCsharpcourse\SourceDecember2020\source\repos\JenkinsExamplesCourse2021\JenkinsExamples2021\JenkinsGitDll\obj\Debug\netcoreapp3.1\JenkinsGitDll.dll
+D:\SourceCsharpcourse\SourceDecember2020\source\repos\JenkinsExamplesCourse2021\JenkinsExamples2021\JenkinsGitDll\obj\Debug\netcoreapp3.1\JenkinsGitDll.pdb
+D:\SourceCsharpcourse\SourceDecember2020\source\repos\JenkinsExamplesCourse2021\JenkinsExamples2021\JenkinsGitDll\obj\Debug\netcoreapp3.1\JenkinsGitDll.genruntimeconfig.cache
