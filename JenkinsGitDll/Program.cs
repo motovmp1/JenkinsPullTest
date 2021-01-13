@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace JenkinsGitDll
 {
@@ -6,8 +7,14 @@ namespace JenkinsGitDll
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
-            
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Hello");
+                Thread.Sleep(400);
+                Thread.Sleep(100);
+
+            }
+
         }
     }
 }
